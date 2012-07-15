@@ -1,6 +1,6 @@
 /* Author:  ablimit
  * Contact: ablimit@gmail.com
- * Web based editor customized from Textlat http://tarim.yulghun.com/src/utext/bedit.html 
+ * Web based editor customized from Uyghur Text Processing Library (http://tarim.yulghun.com/src/utext/bedit.html)
  * Version: 0.1v
  * License: GPL
  */
